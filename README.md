@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Ivan!%20👋&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Java%20Dev%20•%20Math%20Enjoyer%20•%20Arch%20Linux%20Enjoyer&descAlignY=58&descSize=17" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=F0A500&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+enjoyer+☕;React+%2F+Next.js+%7C+TypeScript+📦;I+use+Arch+btw+🐧+%2B+Hyprland;Functional+Analysis+%26+Operator+Theory+🧮;SELECT+*+FROM+knowledge+WHERE+curious+%3D+true;" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 <br/>
 
