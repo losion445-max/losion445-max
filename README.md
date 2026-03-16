@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Иван%20/%20losion445-max&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Java%20Developer%20•%20Math%20Enjoyer%20•%20Arch%20Linux%20User&descAlignY=58&descSize=16" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=1793D1&center=true&vCenter=true&width=700&lines=Java+%2F+Spring+Boot+—+основной+стек;TypeScript+%2F+React+%2F+Next.js+—+фронтенд;Arch+Linux+%2B+Hyprland+—+рабочая+среда;Функциональный+анализ+и+теория+операторов;I+use+Arch+btw." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=1793D1&center=true&vCenter=true&width=700&lines=Java+%2F+Spring+Boot+—+основной+стек;TypeScript+%2F+React+%2F+Next.js+—+фронтенд;Arch+Linux+%2B+Hyprland+—+рабочая+среда;Функциональный+анализ+и+теория+операторов;I+use+Arch+btw." />
 </a>
 
 <br/>
