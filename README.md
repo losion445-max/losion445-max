@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Ivan!%20👋&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Java%20Dev%20•%20Math%20Enjoyer%20•%20Arch%20Linux%20Enjoyer&descAlignY=58&descSize=17" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+World!;What+a+good+day!)](https://git.io/typing-svg)
 
 <br/>
 
