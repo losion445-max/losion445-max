@@ -3,9 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Иван%20/%20losion445-max&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Java%20Developer%20•%20Math%20Enjoyer%20•%20Arch%20Linux%20User&descAlignY=58&descSize=16" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=1793D1&center=true&vCenter=true&width=700&lines=Java+%2F+Spring+Boot+—+основной+стек;TypeScript+%2F+React+%2F+Next.js+—+фронтенд;Arch+Linux+%2B+Hyprland+—+рабочая+среда;Функциональный+анализ+и+теория+операторов;I+use+Arch+btw." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=1793D1&center=true&vCenter=true&width=700&lines=Java%20%2F%20Spring%20Boot%20%E2%80%94%20%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9%20%D1%81%D1%82%D0%B5%D0%BA;TypeScript%20%2F%20React%20%2F%20Next.js%20%E2%80%94%20%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4;Arch%20Linux%20%2B%20Hyprland%20%E2%80%94%20%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B0%D1%8F%20%D1%81%D1%80%D0%B5%D0%B4%D0%B0;%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B8%20%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F%20%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BE%D0%B2;I%20use%20Arch%20btw." alt="Typing SVG" />
 </a>
-
 <br/>
 
 ![Visitors](https://komarev.com/ghpvc/?username=losion445-max&color=1793D1&style=for-the-badge&label=ПОСЕТИТЕЛЕЙ)
